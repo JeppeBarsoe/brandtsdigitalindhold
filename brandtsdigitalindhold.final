@@ -1,0 +1,342 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Mit brandts ung</title>
+</head>
+<body class="baggrund1">
+
+
+<div class="topnav">
+  <a class="brandtsung" href="brandtsung.html">BRANDTS UNG</a>
+  <a class="Events" href="medlemsskab.html">MEDLEMSKAB</a>
+  <a class="events" href="kontakt.html">KONTAKT</a>
+<img class="logo" src="logosort.png" height="48" width="auto">
+</div>
+
+<div style="padding-left:16px">
+
+</div>
+
+<video class="video1" width="300" controls>
+  <source src="brandtscom.mp4" type="video/mp4">
+  <source src="brandtscom.mp4" type="video/ogg">
+  Your browser does not support HTML5 video.
+</video>
+
+<div class="toplefthead">Skal vi ses lidt mere?</div>
+
+<div class=topleft>Kom helt tæt på kunsten med Mit Brandts Ung, der er medlemskabet for dig på 18-30 år. Du kan komme forbi lige så tit du vil, og du er velkommen til at invitere en ven med. Den eneste begrænsning er sådan set vores åbningstider – og det er endda ikke helt sandt. Vi vil nemlig gerne invitere dig til events efter lukketid ca. en gang om måneden. Her fortæller vi om en aktuel udstilling - og så kan du selvfølgelig møde de andre medlemmer, som du deler Brandts med.
+</div>
+
+</body>    
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Mit Brandts Ung</title>
+
+</head>
+<body class="baggrund3">
+
+
+<div class="topnav">
+  <a class="brandtsung" href="brandtsung.html">BRANDTS UNG</a>
+  <a class="Events" href="medlemsskab.html">MEDLEMSKAB</a>
+  <a class="events" href="kontakt.html">KONTAKT</a>
+<img class="logo" src="logosort.png" height="48" width="auto">
+</div>
+
+<div style="padding-left:16px">
+
+</div>
+
+
+<div class=topleft31>BRANDTS</div>
+<div class=topleft32>BRANDTS TORV 1
+5000 ODENSE C</div>
+<div class=topleft33>INFO@BRANDTS.DK
++45 65 20 70 00</div>
+
+<a href="https://www.facebook.com/brandtsmuseum/" class="fa fa-facebook"></a>
+<a href="https://www.instagram.com/brandtsmuseum/?hl=da" class="fa fa-instagram"></a>
+
+
+
+
+</body>    
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Mit brandts ung</title>
+
+</head>
+<body class="baggrund2">
+
+
+<div class="topnav">
+  <a class="brandtsung" href="brandtsung.html">BRANDTS UNG</a>
+  <a class="Events" href="medlemsskab.html">MEDLEMSKAB</a>
+  <a class="events" href="kontakt.html">KONTAKT</a>
+<img class="logo" src="logosort.png" height="48" width="auto">
+</div>
+
+<div style="padding-left:16px">
+
+</div>
+
+<div class="toplefthead21">Fordele</div>
+
+<div class="toplefthead22">Du får et helt års­med­lem­skab alt inkl. for kun kr. 150,-</div>
+
+
+<ul class="tekstmedlemskab1">
+<li>Fri entré i et år inkl. en ven (din ven skal også være mellem 18-30 år)</li>
+<li>Medlemsarrangementer hver måned med events, talks og foredrag</li>
+<li>Nyhedsbreve ca. hver 14. dag og invitationer til udstillingsåbninger</li>
+<li>40% rabat på Brandts egne bøger og 20% rabat på øvrige køb i Brandts Butik</li>
+<li>50% rabat på CLAY, Faaborg Museum og Johannes Larsen Museet</li>
+</ul>
+<ul class="tekstmedlemskab2">
+<li>50% rabat på adgang til 15 kunsthaller i Danmark</li>
+<li>10% rabat ved køb i BRANDTS Café (Med undtagelse af alkohol)</li>
+<li>50% rabat på endagsbillet til Egeskov Slot, Koldinghus, Vadehavscentret, Givskud ZOO (for kulturårskortholdere) og Den Gamle By</li>
+<li>20% rabat på entré til TRAPHOLT</li>
+<li>30% rabat entré til Odense Bys Museer</li>
+<li>20% rabat ved køb af billet til Den Fynske Opera (Rabatkode tilsendes)</li>    
+</ul>
+
+
+
+
+
+
+</body>    
+.baggrund1 {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+background-image: url("displaypic.png");
+background-size: 100%;
+background-repeat: no-repeat;
+}
+.toplefthead {
+    
+    position: relative;
+    text-align: left;
+    color: floralwhite;
+    padding: 10px;
+    width: 300px;
+    height: 50px;
+    left: 900px;
+    font-size: 30px;
+    top:10px;
+
+}
+.topleft {
+    position: relative;
+    text-align: left;
+    color: floralwhite;
+    padding: 10px;
+    width: 300px;
+    height: 500px;
+    left: 900px;
+    font-size: 20px;
+    top:0px;
+    
+}
+
+.baggrund2 {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+background-image: url("baggrund2.png");
+background-size: 100%;
+background-repeat: no-repeat;
+}
+.toplefthead21 {
+    position: absolute;
+    text-align: left;
+    color: floralwhite;
+    padding: 10px;
+    width: 300px;
+    height: 50px;
+    left: 50px;
+    font-size: 30px;
+    top:60px;
+
+}
+
+.toplefthead22 {
+    position: absolute;
+    text-align: left;
+    color: floralwhite;
+    padding: 10px;
+    width: 530px;
+    height: 20px;
+    left: 50px;
+    font-size: 22px;
+    top:600px;
+
+}
+
+.tekstmedlemskab1 {
+    position: absolute;
+    text-align: left;
+    color: floralwhite;
+    padding: 10px;
+    width: 300px;
+    height: 50px;
+    margin-bottom: 5px;
+    left: 50px;
+    font-size: 22px;
+    top:100px;
+
+}
+
+.tekstmedlemskab2 {
+    position: absolute;
+    text-align: left;
+    color: floralwhite;
+    padding: 10px;
+    width: 300px;
+    height: 50px;    
+    margin-bottom: 5px;
+    left: 960px;
+    font-size: 22px;
+    top:100px;
+
+}
+
+.baggrund3 {
+  margin: 0;
+  font-family:sans-serif;
+background-image: url("baggrund3.png");
+background-size: 100%;
+background-repeat: no-repeat;
+
+}
+
+.topleft31 {
+position: absolute;
+    text-align: left;
+    color: floralwhite;
+    padding: 10px;
+    width: 175px;
+    height: 15px;
+    text-align: justify;
+    left: 900px;
+    font-size: 20px;
+    top:520px;    
+}
+
+.topleft32 {
+position: absolute;
+    text-align: left;
+    color: floralwhite;
+    padding: 10px;
+    width: 175px;
+    height: 15px;
+    text-align: justify;
+    left: 900px;
+    font-size: 20px;
+    top:550px;    
+}
+
+.topleft33 {
+position: absolute;
+    text-align: left;
+    color: floralwhite;
+    padding: 10px;
+    width: 175px;
+    height: 15px;
+    text-align: justify;
+    left: 900px;
+    font-size: 20px;
+    top:600px;    
+}
+
+
+.topnav {
+  overflow: hidden;
+  background-color: #fff507;
+
+}
+
+.topnav a {
+  float: left;
+  color: #333;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color:floralwhite;
+  color: black;
+}
+
+
+
+.logo    {
+position:sticky;
+    left: 630px;
+    top: 2px;    
+}
+
+
+.video1    {
+
+position: absolute;
+    top: 510px;
+    left: 30px;
+}
+
+.fa-facebook {
+      position:absolute;
+    padding: 20px;
+  font-size: 30px;
+  width: 15px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+    left: 600px;
+    top: 600px;
+
+}
+.fa-instagram {
+    position: absolute;
+    padding: 20px;
+    font-size: 30px;
+    width: 15px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+    left: 680px;
+    top: 600px;
+
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+
+
